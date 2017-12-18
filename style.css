@@ -1,0 +1,21 @@
+p{
+    font-size: 14px;
+    color: #ffffff;
+}
+
+h1{
+    color: #45b3e7;
+}
+
+h2{
+    color: #45b3e7;
+}
+
+.active {
+    font-weight: bold;
+    font-size: 20px
+}
+
+body{
+    background-color: #FF69B4;
+}

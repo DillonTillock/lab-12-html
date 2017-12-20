@@ -11,6 +11,21 @@ h2{
     color: #45b3e7;
 }
 
+h3{
+	color: #45b3e7;
+}
+h4{
+	color: #45b3e7;
+}
+h5{
+	color: #45b3e7;
+}
+h6{
+	font-size: 22px
+	color: #45b3e7;
+}
+
+
 .active {
     font-weight: bold;
     font-size: 20px
